@@ -1,0 +1,2 @@
+All Countries API : https://restcountries.com/v2/all
+Search By Name : https://restcountries.com/v2/name/{name}
